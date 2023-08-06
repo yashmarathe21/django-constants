@@ -1,6 +1,6 @@
 from django.test import TestCase
 from django.test import TestCase
-from constants.models import GlobalConstant, KeyTypeChoices
+from django_constants.models import GlobalConstant, KeyTypeChoices
 
 
 # Create your tests here.
